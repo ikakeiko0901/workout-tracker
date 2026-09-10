@@ -21,8 +21,8 @@ Thumbs.db
 *.log
 playwright-report/
 test-results/
+*.tsbuildinfo
 
 # Local scratch/output directories used by Codex
 work/
 outputs/
-
